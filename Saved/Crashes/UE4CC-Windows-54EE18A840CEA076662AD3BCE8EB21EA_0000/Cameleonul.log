@@ -1,0 +1,1036 @@
+﻿Log file open, 04/28/18 20:45:43
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogInit: Display: Running engine for game: Cameleonul
+LogPlatformFile: Not using cached read wrapper
+LogInit: Display: RandInit(-389180118) SRandInit(-389180118).
+LogInit: Read version file with build ID '3944462'
+LogInit: Overriding engine version to CL 3989454, compatible CL 3944462
+LogInit: Registered custom module enumerator with build ID '3944462'
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 4.714896
+LogD3D11RHI: Aftermath initialized
+LogICUInternationalization: Display: ICU TimeZone Detection - Raw Offset: +2:00, Platform Override: ''
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2D.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-Paper2DEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperSpriteSheetImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-PaperTiledImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/2D/Paper2D/Binaries/Win64/UE4Editor-SmartSnapping.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeRuntime.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Blendables/LightPropagationVolume/Binaries/Win64/UE4Editor-LightPropagationVolumeEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/CLionSourceCodeAccess/Binaries/Win64/UE4Editor-CLionSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/GitSourceControl/Binaries/Win64/UE4Editor-GitSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/PerforceSourceControl/Binaries/Win64/UE4Editor-PerforceSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/SubversionSourceControl/Binaries/Win64/UE4Editor-SubversionSourceControl.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/UObjectPlugin/Binaries/Win64/UE4Editor-UObjectPlugin.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioCodeSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioCodeSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Developer/VisualStudioSourceCodeAccess/Binaries/Win64/UE4Editor-VisualStudioSourceCodeAccess.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/AssetManagerEditor/Binaries/Win64/UE4Editor-AssetManagerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeys.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/CryptoKeys/Binaries/Win64/UE4Editor-CryptoKeysOpenSSL.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/DataValidation/Binaries/Win64/UE4Editor-DataValidation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimation.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/FacialAnimation/Binaries/Win64/UE4Editor-FacialAnimationEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/GameplayTagsEditor/Binaries/Win64/UE4Editor-GameplayTagsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/MobileLauncherProfileWizard/Binaries/Win64/UE4Editor-MobileLauncherProfileWizard.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/PluginBrowser/Binaries/Win64/UE4Editor-PluginBrowser.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Editor/SpeedTreeImporter/Binaries/Win64/UE4Editor-SpeedTreeImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Enterprise/DatasmithContent/Binaries/Win64/UE4Editor-DatasmithContent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicImporter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/AlembicImporter/Binaries/Win64/UE4Editor-AlembicLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/CharacterAI/Binaries/Win64/UE4Editor-CharacterAI.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Experimental/HTML5Networking/Binaries/Win64/UE4Editor-HTML5Networking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AndroidMedia/Binaries/Win64/UE4Editor-AndroidMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/AvfMedia/Binaries/Win64/UE4Editor-AvfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-ImgMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/ImgMedia/Binaries/Win64/UE4Editor-OpenExrWrapper.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/LinearTimecode/Binaries/Win64/UE4Editor-LinearTimecode.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositing.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaCompositing/Binaries/Win64/UE4Editor-MediaCompositingEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/MediaPlayerEditor/Binaries/Win64/UE4Editor-MediaPlayerEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMedia.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Media/WmfMedia/Binaries/Win64/UE4Editor-WmfMediaFactory.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/TcpMessaging/Binaries/Win64/UE4Editor-TcpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Messaging/UdpMessaging/Binaries/Win64/UE4Editor-UdpMessaging.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/ActorSequence/Binaries/Win64/UE4Editor-ActorSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/LevelSequenceEditor/Binaries/Win64/UE4Editor-LevelSequenceEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/MovieScene/MatineeToLevelSequence/Binaries/Win64/UE4Editor-MatineeToLevelSequence.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NetcodeUnitTest/Binaries/Win64/UE4Editor-NetcodeUnitTest.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/NetcodeUnitTest/NUTUnrealEngine4/Binaries/Win64/UE4Editor-NUTUnrealEngine4.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystem/Binaries/Win64/UE4Editor-OnlineSubsystem.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidPermission/Binaries/Win64/UE4Editor-AndroidPermission.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemNull/Binaries/Win64/UE4Editor-OnlineSubsystemNull.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineSubsystemUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Online/OnlineSubsystemUtils/Binaries/Win64/UE4Editor-OnlineBlueprintSupport.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AndroidDeviceProfileSelector/Binaries/Win64/UE4Editor-AndroidDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AppleARKit/Binaries/Win64/UE4Editor-AppleARKit.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ProceduralMeshComponent/Binaries/Win64/UE4Editor-ProceduralMeshComponentEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLink.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Animation/LiveLink/Binaries/Win64/UE4Editor-LiveLinkEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ArchVisCharacter/Binaries/Win64/UE4Editor-ArchVisCharacter.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCapture.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/AudioCapture/Binaries/Win64/UE4Editor-AudioCaptureEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CableComponent/Binaries/Win64/UE4Editor-CableComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/CustomMeshComponent/Binaries/Win64/UE4Editor-CustomMeshComponent.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ExampleDeviceProfileSelector/Binaries/Win64/UE4Editor-ExampleDeviceProfileSelector.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysics.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/ImmediatePhysics/Binaries/Win64/UE4Editor-ImmediatePhysicsEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/LocationServicesBPLibrary/Binaries/Win64/UE4Editor-LocationServicesBPLibrary.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/MobilePatchingUtils/Binaries/Win64/UE4Editor-MobilePatchingUtils.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusHMD.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusInput.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Binaries/Win64/UE4Editor-OculusEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehicles.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/PhysXVehicles/Binaries/Win64/UE4Editor-PhysXVehiclesEditor.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/RuntimePhysXCooking/Binaries/Win64/UE4Editor-RuntimePhysXCooking.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVR.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/Steam/SteamVR/Binaries/Win64/UE4Editor-SteamVRController.dll (API version 3944462).
+LogModuleManager: Display: Found up-to-date module file ../../../Engine/Plugins/Runtime/WindowsMoviePlayer/Binaries/Win64/UE4Editor-WindowsMoviePlayer.dll (API version 3944462).
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin LiveLink
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin LinearTimecode
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleARKit
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin ImmediatePhysics
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Plugin shader directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders found
+LogPluginManager: Mapping shader source directory ../../../Engine/Plugins/Runtime/Oculus/OculusVR/Shaders to virtual directory /Plugin/OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogStreaming: Display: Took  6.264s to configure plugins.
+LogInit: Using libcurl 7.47.1
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.0.2g
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = false  - Libcurl will NOT verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - CertBundlePath = nullptr  - Libcurl will use whatever was configured at build time.
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: WinSock: I am DESKTOP-KGKR5TQ (192.168.56.1:0)
+LogInit: Build: ++UE4+Release-4.19-CL-3989454
+LogInit: Engine Version: 4.19.1-3989454+++UE4+Release-4.19
+LogInit: Compatible Engine Version: 4.19.0-3944462+++UE4+Release-4.19
+LogInit: Net CL: 3944462
+LogDevObjectVersion: Number of dev versions registered: 18
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 2
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 23
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 33
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 25
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 6
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 1
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 2
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 16
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogInit: Compiled (64-bit): Apr  6 2018 12:26:04
+LogInit: Compiled with Visual C++: 19.00.24215.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.19
+LogInit: Command Line:  
+LogInit: Base Directory: C:/Program Files/Epic Games/UE_4.19/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogStreaming: Display: Took  0.001s to delete old logs.
+LogInit: Presizing for max 8388607 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+[2018.04.28-17.45.50:624][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.28-17.45.50:624][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2018.04.28-17.45.50:895][  0]LogInit: Computer: DESKTOP-KGKR5TQ
+[2018.04.28-17.45.50:895][  0]LogInit: User: Samy
+[2018.04.28-17.45.50:895][  0]LogInit: CPU Page size=4096, Cores=4
+[2018.04.28-17.45.50:895][  0]LogInit: High frequency timer resolution =2.742185 MHz
+[2018.04.28-17.45.50:895][  0]LogMemory: Memory total: Physical=7.9GB (8GB approx)
+[2018.04.28-17.45.50:895][  0]LogMemory: Platform Memory Stats for Windows
+[2018.04.28-17.45.50:895][  0]LogMemory: Process Physical Memory: 274.44 MB used, 274.44 MB peak
+[2018.04.28-17.45.50:895][  0]LogMemory: Process Virtual Memory: 264.78 MB used, 264.78 MB peak
+[2018.04.28-17.45.50:895][  0]LogMemory: Physical Memory: 5888.38 MB used,  2188.45 MB free, 8076.83 MB total
+[2018.04.28-17.45.50:895][  0]LogMemory: Virtual Memory: 697.87 MB used,  2188.45 MB free, 134217728.00 MB total
+[2018.04.28-17.45.53:244][  0]LogInit: Using OS detected language (ro-RO).
+[2018.04.28-17.45.53:244][  0]LogInit: Using OS detected locale (ro-RO).
+[2018.04.28-17.45.54:102][  0]LogTextLocalizationManager: No localization for 'ro-RO' exists, so 'en' will be used for the language.
+[2018.04.28-17.45.54:951][  0]LogStreaming: Display: Took  1.707s to EndInitTextLocalization.
+[2018.04.28-17.45.54:951][  0]LogInit: Setting process to per monitor DPI aware
+[2018.04.28-17.45.55:682][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2018.04.28-17.45.55:682][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2018.04.28-17.46.02:256][  0]LogD3D11RHI: D3D11 adapters:
+[2018.04.28-17.46.04:969][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1050' (Feature Level 11_0)
+[2018.04.28-17.46.04:969][  0]LogD3D11RHI:       4021/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:1, VendorId:0x10de
+[2018.04.28-17.46.04:980][  0]LogD3D11RHI:    1. 'Intel(R) HD Graphics 630' (Feature Level 11_0)
+[2018.04.28-17.46.04:980][  0]LogD3D11RHI:       128/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x8086
+[2018.04.28-17.46.04:981][  0]LogD3D11RHI:    2. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2018.04.28-17.46.04:981][  0]LogD3D11RHI:       0/0/4038 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2018.04.28-17.46.04:982][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2018.04.28-17.46.04:989][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2018.04.28-17.46.04:989][  0]LogD3D11RHI:     GPU DeviceId: 0x1c8d (for the marketing name, search the web for "GPU Device Id")
+[2018.04.28-17.46.04:989][  0]LogWindows: EnumDisplayDevices:
+[2018.04.28-17.46.04:989][  0]LogWindows:    0. 'Intel(R) HD Graphics 630' (P:1 D:1)
+[2018.04.28-17.46.04:989][  0]LogWindows:    1. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.04.28-17.46.04:989][  0]LogWindows:    2. 'Intel(R) HD Graphics 630' (P:0 D:0)
+[2018.04.28-17.46.04:989][  0]LogWindows: DebugString: GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter GetVideoDriverDetailsInvalid PrimaryIsNotTheChoosenAdapter FoundDriverCount:0 
+[2018.04.28-17.46.04:989][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1050
+[2018.04.28-17.46.04:989][  0]LogD3D11RHI:   Driver Version: Unknown (internal:Unknown, unified:Unknown)
+[2018.04.28-17.46.04:989][  0]LogD3D11RHI:      Driver Date: Unknown
+[2018.04.28-17.46.04:989][  0]LogRHI: Texture pool is 2814 MB (70% of 4021 MB)
+[2018.04.28-17.46.05:069][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.28-17.46.05:069][  0]LogD3D11RHI: [Aftermath] Aftermath enabled and primed
+[2018.04.28-17.46.05:069][  0]LogD3D11RHI: Async texture creation enabled
+[2018.04.28-17.46.05:088][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2018.04.28-17.46.05:094][  0]LogShaderCompilers: Guid format shader working directory is -20 characters bigger than the processId version (../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Intermediate/Shaders/WorkingDirectory/17580/).
+[2018.04.28-17.46.05:094][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/Samy/AppData/Local/Temp/UnrealShaderWorkingDir/57BBE60D491C0B026B9751BFE79C2D4B/'.
+[2018.04.28-17.46.15:140][  0]LogTemp: Display: Loaded TP AllDesktopTargetPlatform
+[2018.04.28-17.46.15:153][  0]LogTemp: Display: Loaded TP MacClientTargetPlatform
+[2018.04.28-17.46.15:167][  0]LogTemp: Display: Loaded TP MacNoEditorTargetPlatform
+[2018.04.28-17.46.15:180][  0]LogTemp: Display: Loaded TP MacServerTargetPlatform
+[2018.04.28-17.46.15:214][  0]LogTemp: Display: Loaded TP MacTargetPlatform
+[2018.04.28-17.46.15:226][  0]LogTemp: Display: Loaded TP WindowsClientTargetPlatform
+[2018.04.28-17.46.15:239][  0]LogTemp: Display: Loaded TP WindowsNoEditorTargetPlatform
+[2018.04.28-17.46.15:252][  0]LogTemp: Display: Loaded TP WindowsServerTargetPlatform
+[2018.04.28-17.46.15:258][  0]LogTemp: Display: Loaded TP WindowsTargetPlatform
+[2018.04.28-17.46.15:269][  0]LogTemp: Display: Loaded TP Android_ASTCTargetPlatform
+[2018.04.28-17.46.15:281][  0]LogTemp: Display: Loaded TP Android_ATCTargetPlatform
+[2018.04.28-17.46.15:293][  0]LogTemp: Display: Loaded TP Android_DXTTargetPlatform
+[2018.04.28-17.46.15:306][  0]LogTemp: Display: Loaded TP Android_ETC1aTargetPlatform
+[2018.04.28-17.46.15:318][  0]LogTemp: Display: Loaded TP Android_ETC1TargetPlatform
+[2018.04.28-17.46.15:329][  0]LogTemp: Display: Loaded TP Android_ETC2TargetPlatform
+[2018.04.28-17.46.15:352][  0]LogTemp: Display: Loaded TP Android_MultiTargetPlatform
+[2018.04.28-17.46.15:352][  0]LogTemp: Display: Loaded TP Android_PVRTCTargetPlatform
+[2018.04.28-17.46.15:415][  0]LogTemp: Display: Loaded TP AndroidTargetPlatform
+[2018.04.28-17.46.15:486][  0]LogTemp: Display: Loaded TP HTML5TargetPlatform
+[2018.04.28-17.46.15:600][  0]LogTemp: Display: Loaded TP IOSTargetPlatform
+[2018.04.28-17.46.15:612][  0]LogTemp: Display: Loaded TP TVOSTargetPlatform
+[2018.04.28-17.46.15:622][  0]LogTemp: Display: Loaded TP LinuxClientTargetPlatform
+[2018.04.28-17.46.15:634][  0]LogTemp: Display: Loaded TP LinuxNoEditorTargetPlatform
+[2018.04.28-17.46.15:647][  0]LogTemp: Display: Loaded TP LinuxServerTargetPlatform
+[2018.04.28-17.46.15:662][  0]LogTemp: Display: Loaded TP LinuxTargetPlatform
+[2018.04.28-17.46.15:663][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2018.04.28-17.46.17:352][  0]LogXGEController: Cleaning working directory: C:/Users/Samy/AppData/Local/Temp/UnrealXGEWorkingDir/
+[2018.04.28-17.46.17:353][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2018.04.28-17.46.17:353][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2018.04.28-17.46.17:353][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2018.04.28-17.46.21:818][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2018.04.28-17.46.21:818][  0]LogDerivedDataCache: Display: Starting with empty Boot cache
+[2018.04.28-17.46.21:819][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file ../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2018.04.28-17.46.21:819][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2018.04.28-17.46.21:819][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file ../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2018.04.28-17.46.21:819][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2018.04.28-17.46.22:521][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2018.04.28-17.46.22:584][  0]LogDerivedDataCache: Using Local data cache path C:/Users/Samy/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2018.04.28-17.46.22:659][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2018.04.28-17.46.22:660][  0]LogSlate: Using Freetype 2.6.0
+[2018.04.28-17.46.22:750][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.28-17.46.22:750][  0]LogSlate: SlateFontCache - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2018.04.28-17.46.34:148][  0]LogAssetRegistry: FAssetRegistry took 0.0253 seconds to start up
+[2018.04.28-17.46.34:495][  0]LogInit: Selected Device Profile: [Windows]
+[2018.04.28-17.46.37:347][  0]LogSimplygon: Simplygon DLL not present - disabling.
+[2018.04.28-17.46.37:450][  0]LogMeshReduction: Using SimplygonSwarm for distributed automatic mesh merging
+[2018.04.28-17.46.37:493][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2018.04.28-17.46.37:499][  0]LogMeshReduction: No automatic skeletal mesh reduction module available
+[2018.04.28-17.46.37:499][  0]LogMeshReduction: No automatic mesh merging module available
+[2018.04.28-17.46.37:499][  0]LogMeshMerging: No automatic mesh merging module available
+[2018.04.28-17.46.38:803][  0]LogNetVersion: Cameleonul , NetCL: 3944462, EngineNetVer: 2, GameNetVer: 0 (Checksum: 719565523)
+[2018.04.28-17.46.47:784][  0]LogPackageLocalizationCache: Processed 9 localized package path(s) for 1 prioritized culture(s) in 0.063666 seconds
+[2018.04.28-17.46.47:789][  0]LogUObjectArray: 36728 objects as part of root set at end of initial load.
+[2018.04.28-17.46.47:789][  0]LogUObjectAllocator: 7314304 out of 0 bytes used by permanent object pool.
+[2018.04.28-17.46.47:789][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2018.04.28-17.47.30:461][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2018.04.28-17.47.30:503][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2018.04.28-17.47.31:090][  0]SourceControl: Source control is disabled
+[2018.04.28-17.47.31:090][  0]SourceControl: Source control is disabled
+[2018.04.28-17.47.31:111][  0]SourceControl: Source control is disabled
+[2018.04.28-17.47.31:127][  0]SourceControl: Source control is disabled
+[2018.04.28-17.47.31:887][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2018.04.28-17.47.32:173][  0]LogOcInput: OculusInput pre-init called
+[2018.04.28-17.47.32:370][  0]LogEngine: Initializing Engine...
+[2018.04.28-17.47.32:371][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2018.04.28-17.47.32:372][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.28-17.47.32:372][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.28-17.47.33:372][  0]LogAIModule: Creating AISystem for world Untitled
+[2018.04.28-17.47.33:592][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-17.47.33:626][  0]LogInit: FAudioDevice initialized.
+[2018.04.28-17.47.33:876][  0]LogDerivedDataCache: Saved boot cache 0.25s 74MB C:/Users/Samy/AppData/Local/UnrealEngine/4.19/DerivedDataCache/Boot.ddc.
+[2018.04.28-17.47.33:897][  0]LogInit: Texture streaming: Enabled
+[2018.04.28-17.47.34:130][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2018.04.28-17.47.34:591][  0]LogInit: Transaction tracking system initialized
+[2018.04.28-17.47.35:029][  0]BlueprintLog: New page: Editor Load
+[2018.04.28-17.47.37:640][  0]LocalizationService: Localization service is disabled
+[2018.04.28-17.47.39:280][  0]LogConsoleResponse: Display: 
+[2018.04.28-17.47.42:641][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/' took 0.06s
+[2018.04.28-17.47.42:641][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2018.04.28-17.47.42:643][  0]LogCook: Display: Mobile HDR setting 1
+[2018.04.28-17.47.42:669][  0]LogGameplayTags: Display: UGameplayTagsManager::DoneAddingNativeTags. DelegateIsBound: 0
+[2018.04.28-17.47.42:671][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: Construct from data asset -  0.000 s
+[2018.04.28-17.47.42:671][  0]LogStats: UGameplayTagsManager::ConstructGameplayTagTree: GameplayTagTreeChangedEvent.Broadcast -  0.000 s
+[2018.04.28-17.47.46:365][  0]SourceControl: Source control is disabled
+[2018.04.28-17.47.46:509][  0]Cmd: MAP LOAD FILE="../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2018.04.28-17.47.46:564][  0]LightingResults: New page: Lighting Build
+[2018.04.28-17.47.47:090][  0]MapCheck: New page: Map Check
+[2018.04.28-17.47.47:090][  0]LightingResults: New page: Lighting Build
+[2018.04.28-17.47.56:718][  0]LogSkeletalMesh: Skeletal Mesh found in DDC [219.886337ms] /Game/Mannequin/Character/Mesh/SK_Mannequin.SK_Mannequin
+[2018.04.28-17.47.57:270][  0]LogMaterial: Missing cached shader map for material lambert1, compiling. 
+[2018.04.28-17.47.57:628][  0]LogSkeletalMesh: Building Skeletal Mesh model_game_v4...
+[2018.04.28-17.47.57:662][  0]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.04.28-17.47.57:662][  0]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.04.28-17.47.57:662][  0]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.04.28-17.47.57:662][  0]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.28-17.47.57:662][  0]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.28-17.47.57:662][  0]LogSkeletalMesh: Built Skeletal Mesh [0.08s] /Game/SideScrollerBP/model_game_v4.model_game_v4
+[2018.04.28-17.47.58:017][  0]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.04.28-17.48.02:660][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2018.04.28-17.48.03:254][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2018.04.28-17.48.03:374][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 119,132ms to complete.
+[2018.04.28-17.48.03:374][  0]LogFileHelpers: Loading map 'SideScrollerExampleMap' took 17.007
+[2018.04.28-17.48.05:595][  0]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.28-17.48.11:917][  0]LogCollectionManager: Loaded 0 collections in 0.002243 seconds
+[2018.04.28-17.48.12:805][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Saved/Collections/' took 0.01s
+[2018.04.28-17.48.12:805][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/Developers/Samy/Collections/' took 0.01s
+[2018.04.28-17.48.12:805][  0]LogFileCache: Scanning file cache for directory 'C:/Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/Collections/' took 0.01s
+[2018.04.28-17.48.12:805][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000000 seconds
+[2018.04.28-17.48.12:818][  0]LogContentBrowser: Native class hierarchy populated in 0.0118 seconds. Added 2452 classes and 558 folders.
+[2018.04.28-17.48.13:354][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.28-17.48.17:995][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2018.04.28-17.48.18:160][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.28-17.48.25:878][  0]LogSlate: Took 0.158349 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2018.04.28-17.48.26:060][  0]LogSlate: Took 0.077239 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2018.04.28-17.48.26:693][  0]LogSlate: Took 0.052027 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2018.04.28-17.48.29:576][  0]LogRenderer: Reallocating scene render targets to support 1208x576 Format 10 NumSamples 1 (Frame:1).
+[2018.04.28-17.48.35:402][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0006 seconds. Added 0 classes and 0 folders.
+[2018.04.28-17.48.35:402][  0]LogLoad: (Engine Initialization) Total time: 199.87 seconds
+[2018.04.28-17.48.35:402][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2018.04.28-17.48.39:233][  0]LogContentStreaming: Texture pool size now 3000 MB
+[2018.04.28-17.48.41:006][  1]LogFileCache: Retrieving MD5 hashes for directory 'C:/Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/' took 4.65s
+[2018.04.28-17.48.42:051][  1]LogSlate: Took 0.077649 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.28-17.48.42:946][  3]LogAssetRegistry: Asset discovery search completed in 128.8193 seconds
+[2018.04.28-17.48.43:016][  3]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000001 seconds (found 0 objects)
+[2018.04.28-17.48.43:016][  3]LogCollectionManager: Fixed up redirectors for 0 collections in 0.023639 seconds (updated 0 objects)
+[2018.04.28-17.49.42:706][298]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-17.52.03:256][519]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.04.28-17.52.15:333][119]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2018.04.28-17.52.16:943][193]LogEditorViewport: Clicking on Actor (context menu): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.04.28-17.52.17:299][193]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-17.52.18:027][233]LogEditorViewport: Clicking on Actor (LMB): BP_Sky_Sphere_C (SkySphereBlueprint)
+[2018.04.28-17.52.20:458][377]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-17.52.20:625][387]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-17.52.20:676][387]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-17.52.20:705][387]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-17.52.20:792][387]PIE: New page: PIE session: SideScrollerExampleMap (28 apr. 2018, 23:52:20)
+[2018.04.28-17.52.20:806][387]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.04.28-17.52.20:914][387]LogPlayLevel: PIE: StaticDuplicateObject took: (0.106937s)
+[2018.04.28-17.52.20:914][387]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.04.28-17.52.20:929][387]LogPlayLevel: PIE: World Init took: (0.015129s)
+[2018.04.28-17.52.20:929][387]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.122463s)
+[2018.04.28-17.52.21:017][387]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-17.52.21:046][387]LogInit: FAudioDevice initialized.
+[2018.04.28-17.52.21:105][387]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.04.28-17.52.21:303][387]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2018.04.28-20.52.21
+[2018.04.28-17.52.21:385][387]LogWorld: Bringing up level for play took: 0.108600
+[2018.04.28-17.52.21:462][387]LogContentBrowser: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 11 classes and 0 folders.
+[2018.04.28-17.52.21:568][387]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0,485
+[2018.04.28-17.52.21:568][387]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-17.52.34:966][740]LogNet: Browse: /Game/SideScrollerBP/Maps/MainMenuMap
+[2018.04.28-17.52.34:967][740]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/MainMenuMap
+[2018.04.28-17.52.36:435][740]LogAIModule: Creating AISystem for world MainMenuMap
+[2018.04.28-17.52.36:435][740]LogLoad: Game class is 'MainMenuMode_C'
+[2018.04.28-17.52.36:440][740]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2018.04.28-20.52.36
+[2018.04.28-17.52.36:440][740]LogWorld: Bringing up level for play took: 0.003069
+[2018.04.28-17.52.36:463][740]LogLoad: Took 1.496103 seconds to LoadMap(/Game/SideScrollerBP/Maps/MainMenuMap)
+[2018.04.28-17.53.53:511][338]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-17.53.53:719][338]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-17.53.59:656][678]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.04.28-17.54.03:098][859]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-17.54.15:358][532]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/model_game_v6_Anim.model_game_v6_Anim
+[2018.04.28-17.54.15:381][532]LogAnimationCompression: Recompressing (AnimSequence /Game/SideScrollerBP/model_game_v6_Anim.model_game_v6_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.28-17.54.15:457][532]LogSkeletalMesh: Building Skeletal Mesh model_game_v6...
+[2018.04.28-17.54.15:457][532]LogSkeletalMesh: Built Skeletal Mesh [0.00s] /Game/SideScrollerBP/model_game_v6.model_game_v6
+[2018.04.28-17.54.15:459][532]LogMaterial: Missing cached shader map for material lambert6, compiling. 
+[2018.04.28-17.54.15:590][532]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.04.28-17.54.15:590][532]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.04.28-17.54.15:590][532]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.04.28-17.54.15:590][532]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.28-17.54.18:926][670]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.28-17.54.19:337][685]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.28-17.54.27:013][ 85]LogSlate: Took 0.099686 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2018.04.28-17.54.27:366][ 85]LogContentBrowser: Native class hierarchy updated for 'SkeletonEditor' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2018.04.28-17.54.29:428][ 85]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) Already registered. Aborting.
+[2018.04.28-17.54.29:469][ 85]LogContentBrowser: Native class hierarchy updated for 'PinnedCommandList' in 0.0002 seconds. Added 1 classes and 0 folders.
+[2018.04.28-17.54.30:189][ 85]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_5:PersistentLevel.Actor_0.DebugSkelMeshComponent_0) - call TermArticulated first.
+[2018.04.28-17.54.31:604][ 85]LogContentBrowser: Native class hierarchy updated for 'ClothingSystemEditorInterface' in 0.0003 seconds. Added 1 classes and 0 folders.
+[2018.04.28-17.54.31:656][ 85]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.04.28-17.54.54:584][333]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-17.54.54:882][341]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_8:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) Already registered. Aborting.
+[2018.04.28-17.54.54:975][341]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_8:PersistentLevel.Actor_1.DebugSkelMeshComponent_3) - call TermArticulated first.
+[2018.04.28-17.54.55:415][341]LogSlate: Took 0.007984 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.04.28-17.54.55:610][342]LogRenderer: Reallocating scene render targets to support 1208x888 Format 10 NumSamples 1 (Frame:1).
+[2018.04.28-17.54.59:030][511]LogContentBrowser: Native class hierarchy updated for 'PhysicsAssetEditor' in 0.0003 seconds. Added 7 classes and 3 folders.
+[2018.04.28-17.54.59:059][511]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_9:PersistentLevel.Actor_2.PhysicsAssetEditorSkeletalMeshComponent_0) Already registered. Aborting.
+[2018.04.28-17.54.59:687][511]LogSlate: Took 0.017774 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.04.28-17.55.01:834][624]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) Already registered. Aborting.
+[2018.04.28-17.55.01:882][624]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_10:PersistentLevel.Actor_3.DebugSkelMeshComponent_4) - call TermArticulated first.
+[2018.04.28-17.55.09:882][984]LogSlate: Window 'model_game_v6_Anim' being destroyed
+[2018.04.28-17.55.09:887][984]LogSlate: Window 'model_game_v6_Anim' being destroyed
+[2018.04.28-17.55.48:397][182]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-17.55.48:546][191]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-17.55.48:572][191]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-17.55.48:572][191]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-17.55.48:572][191]PIE: New page: PIE session: SideScrollerExampleMap (28 apr. 2018, 23:55:48)
+[2018.04.28-17.55.48:572][191]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.04.28-17.55.48:593][191]LogPlayLevel: PIE: StaticDuplicateObject took: (0.020015s)
+[2018.04.28-17.55.48:593][191]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.04.28-17.55.48:594][191]LogPlayLevel: PIE: World Init took: (0.000980s)
+[2018.04.28-17.55.48:594][191]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.021157s)
+[2018.04.28-17.55.48:744][191]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-17.55.48:775][191]LogInit: FAudioDevice initialized.
+[2018.04.28-17.55.48:804][191]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.04.28-17.55.48:806][191]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2018.04.28-20.55.48
+[2018.04.28-17.55.48:807][191]LogWorld: Bringing up level for play took: 0.001174
+[2018.04.28-17.55.48:808][191]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap -0,275
+[2018.04.28-17.55.48:808][191]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-17.55.49:968][253]LogNet: Browse: /Game/SideScrollerBP/Maps/MainMenuMap
+[2018.04.28-17.55.49:969][253]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/MainMenuMap
+[2018.04.28-17.55.50:581][253]LogAIModule: Creating AISystem for world MainMenuMap
+[2018.04.28-17.55.50:582][253]LogLoad: Game class is 'MainMenuMode_C'
+[2018.04.28-17.55.50:585][253]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2018.04.28-20.55.50
+[2018.04.28-17.55.50:585][253]LogWorld: Bringing up level for play took: 0.002084
+[2018.04.28-17.55.50:586][253]LogLoad: Took 0.617098 seconds to LoadMap(/Game/SideScrollerBP/Maps/MainMenuMap)
+[2018.04.28-17.55.57:198][638]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-17.55.57:230][638]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-17.56.01:457][890]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.04.28-17.56.05:629][132]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-17.56.17:755][850]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-17.56.24:721][262]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-17.56.31:405][660]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-17.56.33:993][815]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.04.28-17.56.48:201][646]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-17.56.51:013][799]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-17.56.51:030][799]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-17.56.51:030][799]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-17.56.51:031][799]PIE: New page: PIE session: SideScrollerExampleMap (28 apr. 2018, 23:56:51)
+[2018.04.28-17.56.51:031][799]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.04.28-17.56.51:050][799]LogPlayLevel: PIE: StaticDuplicateObject took: (0.019135s)
+[2018.04.28-17.56.51:051][799]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.04.28-17.56.51:051][799]LogPlayLevel: PIE: World Init took: (0.001153s)
+[2018.04.28-17.56.51:051][799]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.020517s)
+[2018.04.28-17.56.51:123][799]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-17.56.51:153][799]LogInit: FAudioDevice initialized.
+[2018.04.28-17.56.51:181][799]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.04.28-17.56.51:184][799]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2018.04.28-20.56.51
+[2018.04.28-17.56.51:184][799]LogWorld: Bringing up level for play took: 0.001193
+[2018.04.28-17.56.51:295][799]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0,213
+[2018.04.28-17.56.51:296][799]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-17.56.52:708][872]LogNet: Browse: /Game/SideScrollerBP/Maps/MainMenuMap
+[2018.04.28-17.56.52:709][872]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/MainMenuMap
+[2018.04.28-17.56.52:932][872]LogAIModule: Creating AISystem for world MainMenuMap
+[2018.04.28-17.56.52:932][872]LogLoad: Game class is 'MainMenuMode_C'
+[2018.04.28-17.56.52:935][872]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2018.04.28-20.56.52
+[2018.04.28-17.56.52:935][872]LogWorld: Bringing up level for play took: 0.002241
+[2018.04.28-17.56.52:936][872]LogLoad: Took 0.227234 seconds to LoadMap(/Game/SideScrollerBP/Maps/MainMenuMap)
+[2018.04.28-17.56.56:950][106]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-17.56.56:986][106]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-17.57.01:505][376]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.04.28-17.57.05:123][584]Cmd: TRANSACTION UNDO
+[2018.04.28-17.57.05:123][584]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.28-17.57.05:775][608]Cmd: TRANSACTION UNDO
+[2018.04.28-17.57.05:775][608]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.28-17.57.06:369][637]Cmd: TRANSACTION UNDO
+[2018.04.28-17.57.06:369][637]LogEditorTransaction: Undo Rotate Actors
+[2018.04.28-17.57.06:864][662]Cmd: TRANSACTION UNDO
+[2018.04.28-17.57.06:864][662]LogEditorTransaction: Undo Move Actors
+[2018.04.28-17.57.09:682][830]Cmd: TRANSACTION UNDO
+[2018.04.28-17.57.09:682][830]LogEditorTransaction: Undo Move Actors
+[2018.04.28-17.57.11:390][932]Cmd: TRANSACTION UNDO
+[2018.04.28-17.57.11:390][932]LogEditorTransaction: Undo Rotate Actors
+[2018.04.28-17.57.11:836][958]Cmd: TRANSACTION UNDO
+[2018.04.28-17.57.11:836][958]LogEditorTransaction: Undo Clicking on Actors
+[2018.04.28-17.57.12:378][989]Cmd: TRANSACTION UNDO
+[2018.04.28-17.57.12:378][989]LogEditorTransaction: Undo Move Actors
+[2018.04.28-17.57.13:429][ 52]Cmd: TRANSACTION UNDO
+[2018.04.28-17.57.13:429][ 52]LogEditorTransaction: Undo Edit Anim to Play
+[2018.04.28-17.57.13:431][ 52]LogActorComponent: ~FComponentReregisterContext: (/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerCharacter_78.CollisionCylinder) Component already registered.
+[2018.04.28-17.57.13:881][ 79]Cmd: TRANSACTION UNDO
+[2018.04.28-17.57.13:882][ 79]LogEditorTransaction: Undo Edit Skeletal Mesh
+[2018.04.28-17.57.13:885][ 79]LogActorComponent: ~FComponentReregisterContext: (/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerCharacter_78.CollisionCylinder) Component already registered.
+[2018.04.28-17.57.17:857][317]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.04.28-17.57.26:695][837]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.04.28-17.57.35:677][360]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-17.57.39:048][549]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.04.28-17.57.47:938][ 77]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.00.26:533][684]LogSavePackage: Save=1804.15ms
+[2018.04.28-18.00.26:554][684]LogSavePackage: Moving '../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Saved/SideScrollerExampleMap_Auto1D4A6C0F44970E4FE0F5FA6955A549C94.tmp' to '../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap'
+[2018.04.28-18.00.26:603][684]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap
+[2018.04.28-18.00.26:643][684]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 2.693
+[2018.04.28-18.00.26:643][684]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 2.693
+[2018.04.28-18.11.20:578][757]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.11.25:618][964]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.04.28-18.11.25:914][964]LogEditorViewport: Clicking on Actor (context menu): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.04.28-18.11.26:200][964]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-18.11.35:296][476]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.11.35:835][485]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_11:PersistentLevel.Actor_4.DebugSkelMeshComponent_5) Already registered. Aborting.
+[2018.04.28-18.11.36:385][485]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_11:PersistentLevel.Actor_4.DebugSkelMeshComponent_5) - call TermArticulated first.
+[2018.04.28-18.11.54:371][199]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-18.12.15:077][211]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-18.12.19:292][402]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.12.19:370][406]LogSlate: Window 'model_game_v6' being destroyed
+[2018.04.28-18.12.19:374][406]LogSlate: Window 'model_game_v6' being destroyed
+[2018.04.28-18.33.15:856][200]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.33.16:189][210]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_12:PersistentLevel.Actor_5.DebugSkelMeshComponent_6) Already registered. Aborting.
+[2018.04.28-18.33.16:309][210]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_12:PersistentLevel.Actor_5.DebugSkelMeshComponent_6) - call TermArticulated first.
+[2018.04.28-18.33.17:846][211]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.04.28-18.33.31:106][730]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.33.31:222][736]LogSlate: Window 'model_game_v6_Anim' being destroyed
+[2018.04.28-18.33.31:226][736]LogSlate: Window 'model_game_v6_Anim' being destroyed
+[2018.04.28-18.33.33:422][828]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.34.25:687][572]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.28-18.34.27:040][643]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.34.33:571][697]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.28-18.34.33:681][697]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-18.34.34:240][697]LogSkeletalMesh: Building Skeletal Mesh model_game_v4...
+[2018.04.28-18.34.34:307][697]LogSkeletalMesh: Built Skeletal Mesh [0.17s] /Game/SideScrollerBP/model_game_v4.model_game_v4
+[2018.04.28-18.34.38:892][916]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.35.16:809][131]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.35.35:507][973]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.28-18.35.35:526][973]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-18.35.36:561][  5]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.35.40:644][ 58]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.28-18.35.40:650][ 58]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-18.35.41:142][ 58]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/model_game_v6'
+[2018.04.28-18.35.41:154][ 58]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/model_game_v6'
+[2018.04.28-18.35.41:180][ 58]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/SideScrollerBP/model_game_v6.model_game_v6'
+[2018.04.28-18.35.43:166][164]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.35.49:963][233]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.28-18.35.49:971][233]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-18.35.50:123][233]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-18.35.50:155][233]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-18.35.51:626][311]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.35.54:307][384]LogSlate: Window 'Delete Assets' being destroyed
+[2018.04.28-18.35.54:314][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-18.35.54:337][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-18.35.54:371][384]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-18.35.54:966][405]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.36.40:518][901]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.013
+[2018.04.28-18.36.40:533][901]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/SideScrollerBP/model_game_v4] ([1] browsable assets)...
+[2018.04.28-18.36.40:622][901]OBJ SavePackage:     Rendered thumbnail for [SkeletalMesh /Game/SideScrollerBP/model_game_v4.model_game_v4]
+[2018.04.28-18.36.40:622][901]OBJ SavePackage: Finished generating thumbnails for package [/Game/SideScrollerBP/model_game_v4]
+[2018.04.28-18.36.40:887][901]LogSavePackage: Save=223.29ms
+[2018.04.28-18.36.40:887][901]LogSavePackage: Moving '../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Saved/model_game_v4_Auto25CDE1FDF41702DF8A6BFF4B0374E804C.tmp' to '../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Saved/Autosaves/Game/SideScrollerBP/model_game_v4_Auto2.uasset'
+[2018.04.28-18.36.40:890][901]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Saved/Autosaves/Game/SideScrollerBP/model_game_v4_Auto2.uasset
+[2018.04.28-18.36.40:890][901]LogFileHelpers: Auto-saving content packages took 0.370
+[2018.04.28-18.37.57:311][130]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 C:\Users\Samy\Documents\GitHub\Game-2D-Color-Rush\Content\Imports\model_game_v6.fbx)
+[2018.04.28-18.37.57:696][130]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.28-18.37.57:696][130]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.28-18.37.57:696][130]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.28-18.37.57:696][130]LogFbx: ItemName: Geometry, ItemCount : 6
+[2018.04.28-18.37.57:696][130]LogFbx: ItemName: Material, ItemCount : 1
+[2018.04.28-18.37.57:696][130]LogFbx: ItemName: Model, ItemCount : 26
+[2018.04.28-18.37.57:696][130]LogFbx: ItemName: NodeAttribute, ItemCount : 20
+[2018.04.28-18.37.57:696][130]LogFbx: ItemName: AnimationCurveNode, ItemCount : 44
+[2018.04.28-18.37.57:696][130]LogFbx: ItemName: AnimationCurve, ItemCount : 60
+[2018.04.28-18.37.57:696][130]LogFbx: ItemName: Pose, ItemCount : 6
+[2018.04.28-18.37.57:696][130]LogFbx: ItemName: Deformer, ItemCount : 126
+[2018.04.28-18.37.57:727][130]LogFbx: Loading FBX Scene from C:\Users\Samy\Documents\GitHub\Game-2D-Color-Rush\Content\Imports\model_game_v6.fbx
+[2018.04.28-18.37.57:823][130]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.28-18.38.20:765][130]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.28-18.38.47:631][392]LogFactory: FactoryCreateFile: StaticMesh with FbxFactory (0 0 ../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/Imports/model_game_v6.fbx)
+[2018.04.28-18.38.47:637][392]LogFbx: ItemName: GlobalSettings, ItemCount : 1
+[2018.04.28-18.38.47:638][392]LogFbx: ItemName: AnimationStack, ItemCount : 1
+[2018.04.28-18.38.47:638][392]LogFbx: ItemName: AnimationLayer, ItemCount : 1
+[2018.04.28-18.38.47:638][392]LogFbx: ItemName: Geometry, ItemCount : 6
+[2018.04.28-18.38.47:638][392]LogFbx: ItemName: Material, ItemCount : 1
+[2018.04.28-18.38.47:638][392]LogFbx: ItemName: Model, ItemCount : 26
+[2018.04.28-18.38.47:638][392]LogFbx: ItemName: NodeAttribute, ItemCount : 20
+[2018.04.28-18.38.47:638][392]LogFbx: ItemName: AnimationCurveNode, ItemCount : 44
+[2018.04.28-18.38.47:638][392]LogFbx: ItemName: AnimationCurve, ItemCount : 60
+[2018.04.28-18.38.47:638][392]LogFbx: ItemName: Pose, ItemCount : 6
+[2018.04.28-18.38.47:638][392]LogFbx: ItemName: Deformer, ItemCount : 126
+[2018.04.28-18.38.47:643][392]LogFbx: Loading FBX Scene from ../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/Imports/model_game_v6.fbx
+[2018.04.28-18.38.47:660][392]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.28-18.39.56:117][392]LogSlate: Window 'FBX Import Options' being destroyed
+[2018.04.28-18.39.56:265][392]LogFbx: Loading FBX Scene from ../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/Imports/model_game_v6.fbx
+[2018.04.28-18.39.56:282][392]LogFbx: FBX Scene Loaded Succesfully
+[2018.04.28-18.39.56:366][392]LogFbx: =================================================
+[2018.04.28-18.39.56:367][392]LogFbx: Dumping Node START [pCube1] 
+[2018.04.28-18.39.56:367][392]LogFbx: 	Total Deformer Count 1858179488.
+[2018.04.28-18.39.56:367][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.56:367][392]LogFbx: =================================================
+[2018.04.28-18.39.56:367][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.56:367][392]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.04.28-18.39.56:367][392]LogFbx: Dumping Node END [pCube1]
+[2018.04.28-18.39.56:367][392]LogFbx: =================================================
+[2018.04.28-18.39.56:367][392]LogFbx: Dumping Node START [pCube2] 
+[2018.04.28-18.39.56:367][392]LogFbx: 	Total Deformer Count 1858179488.
+[2018.04.28-18.39.56:367][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.56:367][392]LogFbx: =================================================
+[2018.04.28-18.39.56:367][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.56:367][392]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.04.28-18.39.56:367][392]LogFbx: Dumping Node END [pCube2]
+[2018.04.28-18.39.56:367][392]LogFbx: =================================================
+[2018.04.28-18.39.56:367][392]LogFbx: Dumping Node START [pCube3] 
+[2018.04.28-18.39.56:367][392]LogFbx: 	Total Deformer Count 1858179488.
+[2018.04.28-18.39.56:367][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.56:367][392]LogFbx: =================================================
+[2018.04.28-18.39.56:367][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.56:367][392]LogFbx: 		[Node Attribute Child 1] pCube3 (Type Mesh).
+[2018.04.28-18.39.56:367][392]LogFbx: Dumping Node END [pCube3]
+[2018.04.28-18.39.56:367][392]LogFbx: =================================================
+[2018.04.28-18.39.56:367][392]LogFbx: Dumping Node START [pCube4] 
+[2018.04.28-18.39.56:368][392]LogFbx: 	Total Deformer Count 1858179488.
+[2018.04.28-18.39.56:368][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.56:368][392]LogFbx: =================================================
+[2018.04.28-18.39.56:368][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.56:368][392]LogFbx: 		[Node Attribute Child 1] pCube4 (Type Mesh).
+[2018.04.28-18.39.56:368][392]LogFbx: Dumping Node END [pCube4]
+[2018.04.28-18.39.56:368][392]LogFbx: =================================================
+[2018.04.28-18.39.56:368][392]LogFbx: Dumping Node START [pCube5] 
+[2018.04.28-18.39.56:368][392]LogFbx: 	Total Deformer Count 1858179488.
+[2018.04.28-18.39.56:368][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.56:368][392]LogFbx: =================================================
+[2018.04.28-18.39.56:368][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.56:368][392]LogFbx: 		[Node Attribute Child 1] pCube5 (Type Mesh).
+[2018.04.28-18.39.56:368][392]LogFbx: Dumping Node END [pCube5]
+[2018.04.28-18.39.56:368][392]LogFbx: =================================================
+[2018.04.28-18.39.56:368][392]LogFbx: Dumping Node START [pCube6] 
+[2018.04.28-18.39.56:368][392]LogFbx: 	Total Deformer Count 1858179488.
+[2018.04.28-18.39.56:368][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.56:368][392]LogFbx: =================================================
+[2018.04.28-18.39.56:368][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.56:368][392]LogFbx: 		[Node Attribute Child 1] pCube6 (Type Mesh).
+[2018.04.28-18.39.56:368][392]LogFbx: Dumping Node END [pCube6]
+[2018.04.28-18.39.56:368][392]LogFbx: =================================================
+[2018.04.28-18.39.56:368][392]LogFbx: Dumping Node START [pCube1] 
+[2018.04.28-18.39.56:368][392]LogFbx: 	Total Deformer Count 1858177752.
+[2018.04.28-18.39.56:368][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.56:368][392]LogFbx: =================================================
+[2018.04.28-18.39.56:368][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.56:368][392]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.04.28-18.39.56:368][392]LogFbx: Dumping Node END [pCube1]
+[2018.04.28-18.39.56:368][392]LogFbx: =================================================
+[2018.04.28-18.39.56:368][392]LogFbx: Dumping Node START [pCube3] 
+[2018.04.28-18.39.56:368][392]LogFbx: 	Total Deformer Count 1858177752.
+[2018.04.28-18.39.56:368][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.56:368][392]LogFbx: =================================================
+[2018.04.28-18.39.56:368][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.56:368][392]LogFbx: 		[Node Attribute Child 1] pCube3 (Type Mesh).
+[2018.04.28-18.39.56:368][392]LogFbx: Dumping Node END [pCube3]
+[2018.04.28-18.39.56:368][392]LogFbx: =================================================
+[2018.04.28-18.39.56:368][392]LogFbx: Dumping Node START [pCube4] 
+[2018.04.28-18.39.56:368][392]LogFbx: 	Total Deformer Count 1858177752.
+[2018.04.28-18.39.56:368][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.56:368][392]LogFbx: =================================================
+[2018.04.28-18.39.56:368][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.56:368][392]LogFbx: 		[Node Attribute Child 1] pCube4 (Type Mesh).
+[2018.04.28-18.39.56:368][392]LogFbx: Dumping Node END [pCube4]
+[2018.04.28-18.39.56:368][392]LogFbx: =================================================
+[2018.04.28-18.39.56:368][392]LogFbx: Dumping Node START [pCube5] 
+[2018.04.28-18.39.56:368][392]LogFbx: 	Total Deformer Count 1858177752.
+[2018.04.28-18.39.56:368][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.56:368][392]LogFbx: =================================================
+[2018.04.28-18.39.56:368][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.56:368][392]LogFbx: 		[Node Attribute Child 1] pCube5 (Type Mesh).
+[2018.04.28-18.39.56:368][392]LogFbx: Dumping Node END [pCube5]
+[2018.04.28-18.39.56:368][392]LogFbx: =================================================
+[2018.04.28-18.39.56:368][392]LogFbx: Dumping Node START [pCube6] 
+[2018.04.28-18.39.56:368][392]LogFbx: 	Total Deformer Count 1858177752.
+[2018.04.28-18.39.56:368][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.56:368][392]LogFbx: =================================================
+[2018.04.28-18.39.56:368][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.56:368][392]LogFbx: 		[Node Attribute Child 1] pCube6 (Type Mesh).
+[2018.04.28-18.39.56:368][392]LogFbx: Dumping Node END [pCube6]
+[2018.04.28-18.39.56:369][392]LogFbx: =================================================
+[2018.04.28-18.39.56:369][392]LogFbx: Dumping Node START [pCube2] 
+[2018.04.28-18.39.56:369][392]LogFbx: 	Total Deformer Count 1858177752.
+[2018.04.28-18.39.56:369][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.56:369][392]LogFbx: =================================================
+[2018.04.28-18.39.56:369][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.56:369][392]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.04.28-18.39.56:369][392]LogFbx: Dumping Node END [pCube2]
+[2018.04.28-18.39.56:408][392]LogFbx: Valid bind pose for Pose (skinCluster1) - pCube1
+[2018.04.28-18.39.56:409][392]LogFbx: Valid bind pose for Pose (skinCluster2) - pCube1
+[2018.04.28-18.39.56:409][392]LogFbx: Valid bind pose for Pose (skinCluster3) - pCube1
+[2018.04.28-18.39.56:409][392]LogFbx: Valid bind pose for Pose (skinCluster4) - pCube1
+[2018.04.28-18.39.56:410][392]LogFbx: Valid bind pose for Pose (skinCluster5) - pCube1
+[2018.04.28-18.39.56:410][392]LogFbx: Valid bind pose for Pose (skinCluster6) - pCube1
+[2018.04.28-18.39.56:609][392]LogMaterial: Warning: Material /Game/SideScrollerBP/lambert2.lambert2 needed to have new flag set bUsedWithSkeletalMesh !
+[2018.04.28-18.39.56:845][392]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2018.04.28-18.39.57:096][392]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.04.28-18.39.57:173][392]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.04.28-18.39.57:173][392]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.04.28-18.39.57:173][392]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.28-18.39.57:173][392]LogMaterial: Missing cached shader map for material lambert2, compiling. 
+[2018.04.28-18.39.57:221][392]LogFbx: Triangulating skeletal mesh pCube1
+[2018.04.28-18.39.57:298][392]LogFbx: Triangulating skeletal mesh pCube3
+[2018.04.28-18.39.57:299][392]LogFbx: Triangulating skeletal mesh pCube4
+[2018.04.28-18.39.57:299][392]LogFbx: Triangulating skeletal mesh pCube5
+[2018.04.28-18.39.57:300][392]LogFbx: Triangulating skeletal mesh pCube6
+[2018.04.28-18.39.57:301][392]LogFbx: Triangulating skeletal mesh pCube2
+[2018.04.28-18.39.57:390][392]LogFbx: Warning: Bones digested - 20  Depth of hierarchy - 4
+[2018.04.28-18.39.57:608][392]LogSkeletalMesh: Section 0: 144 vertices, 16 active bones
+[2018.04.28-18.39.57:609][392]LogSkeletalMesh: Section 0: Material=0, 72 triangles
+[2018.04.28-18.39.57:940][392]LogSkeletalMesh: Building Skeletal Mesh model_game_v6...
+[2018.04.28-18.39.57:940][392]LogSkeletalMesh: Built Skeletal Mesh [0.14s] /Game/SideScrollerBP/model_game_v6.model_game_v6
+[2018.04.28-18.39.58:437][392]LogLinker: Can't find file '/Game/SideScrollerBP/model_game_v6_Skeleton'
+[2018.04.28-18.39.58:437][392]LogLinker: Can't find file '/Game/SideScrollerBP/model_game_v6_Skeleton'
+[2018.04.28-18.39.58:978][392]LogLinker: Can't find file '/Game/SideScrollerBP/model_game_v6_PhysicsAsset'
+[2018.04.28-18.39.58:979][392]LogLinker: Can't find file '/Game/SideScrollerBP/model_game_v6_PhysicsAsset'
+[2018.04.28-18.39.59:040][392]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Could not find root physics body: '/Engine/Transient.World_15:PersistentLevel.SkeletalMeshActor_2.SkeletalMeshComponent0'
+[2018.04.28-18.39.59:195][392]LogFbx: =================================================
+[2018.04.28-18.39.59:195][392]LogFbx: Dumping Node START [pCube1] 
+[2018.04.28-18.39.59:195][392]LogFbx: 	Total Deformer Count 177267488.
+[2018.04.28-18.39.59:195][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.59:195][392]LogFbx: =================================================
+[2018.04.28-18.39.59:195][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.59:195][392]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.04.28-18.39.59:195][392]LogFbx: Dumping Node END [pCube1]
+[2018.04.28-18.39.59:195][392]LogFbx: =================================================
+[2018.04.28-18.39.59:195][392]LogFbx: Dumping Node START [pCube2] 
+[2018.04.28-18.39.59:195][392]LogFbx: 	Total Deformer Count 177267488.
+[2018.04.28-18.39.59:195][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.59:195][392]LogFbx: =================================================
+[2018.04.28-18.39.59:195][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.59:195][392]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.04.28-18.39.59:195][392]LogFbx: Dumping Node END [pCube2]
+[2018.04.28-18.39.59:195][392]LogFbx: =================================================
+[2018.04.28-18.39.59:195][392]LogFbx: Dumping Node START [pCube3] 
+[2018.04.28-18.39.59:195][392]LogFbx: 	Total Deformer Count 177267488.
+[2018.04.28-18.39.59:195][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.59:195][392]LogFbx: =================================================
+[2018.04.28-18.39.59:195][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.59:195][392]LogFbx: 		[Node Attribute Child 1] pCube3 (Type Mesh).
+[2018.04.28-18.39.59:195][392]LogFbx: Dumping Node END [pCube3]
+[2018.04.28-18.39.59:195][392]LogFbx: =================================================
+[2018.04.28-18.39.59:195][392]LogFbx: Dumping Node START [pCube4] 
+[2018.04.28-18.39.59:195][392]LogFbx: 	Total Deformer Count 177267488.
+[2018.04.28-18.39.59:195][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.59:195][392]LogFbx: =================================================
+[2018.04.28-18.39.59:195][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.59:195][392]LogFbx: 		[Node Attribute Child 1] pCube4 (Type Mesh).
+[2018.04.28-18.39.59:195][392]LogFbx: Dumping Node END [pCube4]
+[2018.04.28-18.39.59:195][392]LogFbx: =================================================
+[2018.04.28-18.39.59:195][392]LogFbx: Dumping Node START [pCube5] 
+[2018.04.28-18.39.59:195][392]LogFbx: 	Total Deformer Count 177267488.
+[2018.04.28-18.39.59:195][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.59:195][392]LogFbx: =================================================
+[2018.04.28-18.39.59:195][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.59:195][392]LogFbx: 		[Node Attribute Child 1] pCube5 (Type Mesh).
+[2018.04.28-18.39.59:195][392]LogFbx: Dumping Node END [pCube5]
+[2018.04.28-18.39.59:195][392]LogFbx: =================================================
+[2018.04.28-18.39.59:195][392]LogFbx: Dumping Node START [pCube6] 
+[2018.04.28-18.39.59:195][392]LogFbx: 	Total Deformer Count 177267488.
+[2018.04.28-18.39.59:195][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.59:195][392]LogFbx: =================================================
+[2018.04.28-18.39.59:195][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.59:195][392]LogFbx: 		[Node Attribute Child 1] pCube6 (Type Mesh).
+[2018.04.28-18.39.59:195][392]LogFbx: Dumping Node END [pCube6]
+[2018.04.28-18.39.59:195][392]LogFbx: =================================================
+[2018.04.28-18.39.59:195][392]LogFbx: Dumping Node START [pCube1] 
+[2018.04.28-18.39.59:195][392]LogFbx: 	Total Deformer Count 177267880.
+[2018.04.28-18.39.59:195][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.59:195][392]LogFbx: =================================================
+[2018.04.28-18.39.59:195][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.59:195][392]LogFbx: 		[Node Attribute Child 1] pCube1 (Type Mesh).
+[2018.04.28-18.39.59:195][392]LogFbx: Dumping Node END [pCube1]
+[2018.04.28-18.39.59:196][392]LogFbx: =================================================
+[2018.04.28-18.39.59:196][392]LogFbx: Dumping Node START [pCube3] 
+[2018.04.28-18.39.59:196][392]LogFbx: 	Total Deformer Count 177267880.
+[2018.04.28-18.39.59:196][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.59:196][392]LogFbx: =================================================
+[2018.04.28-18.39.59:196][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.59:196][392]LogFbx: 		[Node Attribute Child 1] pCube3 (Type Mesh).
+[2018.04.28-18.39.59:196][392]LogFbx: Dumping Node END [pCube3]
+[2018.04.28-18.39.59:196][392]LogFbx: =================================================
+[2018.04.28-18.39.59:196][392]LogFbx: Dumping Node START [pCube4] 
+[2018.04.28-18.39.59:196][392]LogFbx: 	Total Deformer Count 177267880.
+[2018.04.28-18.39.59:196][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.59:196][392]LogFbx: =================================================
+[2018.04.28-18.39.59:196][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.59:196][392]LogFbx: 		[Node Attribute Child 1] pCube4 (Type Mesh).
+[2018.04.28-18.39.59:196][392]LogFbx: Dumping Node END [pCube4]
+[2018.04.28-18.39.59:196][392]LogFbx: =================================================
+[2018.04.28-18.39.59:196][392]LogFbx: Dumping Node START [pCube5] 
+[2018.04.28-18.39.59:196][392]LogFbx: 	Total Deformer Count 177267880.
+[2018.04.28-18.39.59:196][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.59:196][392]LogFbx: =================================================
+[2018.04.28-18.39.59:196][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.59:196][392]LogFbx: 		[Node Attribute Child 1] pCube5 (Type Mesh).
+[2018.04.28-18.39.59:196][392]LogFbx: Dumping Node END [pCube5]
+[2018.04.28-18.39.59:196][392]LogFbx: =================================================
+[2018.04.28-18.39.59:196][392]LogFbx: Dumping Node START [pCube6] 
+[2018.04.28-18.39.59:196][392]LogFbx: 	Total Deformer Count 177267880.
+[2018.04.28-18.39.59:196][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.59:196][392]LogFbx: =================================================
+[2018.04.28-18.39.59:196][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.59:196][392]LogFbx: 		[Node Attribute Child 1] pCube6 (Type Mesh).
+[2018.04.28-18.39.59:196][392]LogFbx: Dumping Node END [pCube6]
+[2018.04.28-18.39.59:196][392]LogFbx: =================================================
+[2018.04.28-18.39.59:196][392]LogFbx: Dumping Node START [pCube2] 
+[2018.04.28-18.39.59:196][392]LogFbx: 	Total Deformer Count 177267880.
+[2018.04.28-18.39.59:196][392]LogFbx: 		[Node 1]  (Type Skin).
+[2018.04.28-18.39.59:196][392]LogFbx: =================================================
+[2018.04.28-18.39.59:196][392]LogFbx: 	Attribute () Type (4).
+[2018.04.28-18.39.59:196][392]LogFbx: 		[Node Attribute Child 1] pCube2 (Type Mesh).
+[2018.04.28-18.39.59:196][392]LogFbx: Dumping Node END [pCube2]
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(0) ROBOT
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(1) joint2
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(2) MANA_DREAPTA
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(3) joint4
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(4) MANA_STANGA
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(5) joint10
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(6) joint9
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(7) PICIOR_DREPT
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(8) joint24
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(9) PICIOR_STANG
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(10) joint25
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(11) CAP
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(12) joint13
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(13) joint17
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(14) joint14
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(15) joint18
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(16) joint15
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(17) joint19
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(18) joint16
+[2018.04.28-18.39.59:197][392]LogFbx: SortedLinks :(19) joint20
+[2018.04.28-18.39.59:211][392]LogFbx: Parsing AnimStack Take 001
+[2018.04.28-18.39.59:245][392]LogLinker: Can't find file '/Game/SideScrollerBP/model_game_v6_Anim'
+[2018.04.28-18.39.59:245][392]LogLinker: Can't find file '/Game/SideScrollerBP/model_game_v6_Anim'
+[2018.04.28-18.40.00:774][392]LogAnimationCompression: Building Anim DDC data for AnimSequence /Game/SideScrollerBP/model_game_v6_Anim.model_game_v6_Anim
+[2018.04.28-18.40.00:893][392]LogAnimationCompression: Recompressing (AnimSequence /Engine/Transient.model_game_v6_Anim) using current/default (AnimCompress_BitwiseCompressOnly_0) bFirstRecompressUsingCurrentOrDefault(1) bTryAlternateCompressor(0) IsCompressedDataValid(0)
+[2018.04.28-18.40.01:079][392]LogSkeletalMesh: Building Skeletal Mesh model_game_v6...
+[2018.04.28-18.40.01:079][392]LogSkeletalMesh: Built Skeletal Mesh [0.01s] /Game/SideScrollerBP/model_game_v6.model_game_v6
+[2018.04.28-18.40.01:507][392]LogShaderCompilers: Display: Shaders left to compile 60
+[2018.04.28-18.40.02:101][393]LogShaderCompilers: Display: Shaders left to compile 50
+[2018.04.28-18.40.02:208][395]LogShaderCompilers: Display: Shaders left to compile 40
+[2018.04.28-18.40.02:260][396]LogShaderCompilers: Display: Shaders left to compile 30
+[2018.04.28-18.40.02:886][400]LogShaderCompilers: Display: Shaders left to compile 20
+[2018.04.28-18.40.05:051][486]LogShaderCompilers: Display: Shaders left to compile 10
+[2018.04.28-18.40.11:957][879]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.40.12:121][887]LogActorComponent: RegisterComponentWithWorld: (/Engine/Transient.World_17:PersistentLevel.Actor_6.DebugSkelMeshComponent_9) Already registered. Aborting.
+[2018.04.28-18.40.12:180][887]LogSkeletalMesh: USkeletalMeshComponent::InitArticulated : Bodies already created (/Engine/Transient.World_17:PersistentLevel.Actor_6.DebugSkelMeshComponent_9) - call TermArticulated first.
+[2018.04.28-18.40.12:727][887]LogContentBrowser: Verbose: The majority of assets in the view are of type: AnimSequence
+[2018.04.28-18.40.33:509][ 17]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.40.45:235][637]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/model_game_v6_Anim" FILE="../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/SideScrollerBP/model_game_v6_Anim.uasset" SILENT=true
+[2018.04.28-18.40.45:265][637]LogSavePackage: Save=24.19ms
+[2018.04.28-18.40.45:265][637]LogSavePackage: Moving '../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Saved/model_game_v6_Anim9F7B878947F8742AE7949DA97F499DB3.tmp' to '../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/SideScrollerBP/model_game_v6_Anim.uasset'
+[2018.04.28-18.40.45:284][637]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/SideScrollerBP/model_game_v6_Anim.uasset
+[2018.04.28-18.40.47:934][780]LogSlate: Window 'model_game_v6_Anim' being destroyed
+[2018.04.28-18.40.47:939][780]LogSlate: Window 'model_game_v6_Anim' being destroyed
+[2018.04.28-18.41.30:184][214]LogSavePackage: Save=670.53ms
+[2018.04.28-18.41.30:184][214]LogSavePackage: Moving '../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Saved/SideScrollerExampleMapC0D4E2F546031C92520CC29751B1059F.tmp' to '../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap'
+[2018.04.28-18.41.30:197][214]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/SideScrollerBP/Maps/SideScrollerExampleMap.umap
+[2018.04.28-18.41.31:082][214]LogSavePackage: Save=648.41ms
+[2018.04.28-18.41.31:082][214]LogSavePackage: Moving '../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Saved/SideScrollerExampleMap_BuiltDataF4EAF69241EB998E3E0A8AAF3EDC924E.tmp' to '../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset'
+[2018.04.28-18.41.31:084][214]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/SideScrollerBP/Maps/SideScrollerExampleMap_BuiltData.uasset
+[2018.04.28-18.41.39:954][715]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.04.28-18.41.45:876][ 53]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-18.41.57:354][649]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.41.57:471][656]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-18.41.57:521][656]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-18.41.57:545][656]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-18.41.57:674][656]PIE: New page: PIE session: SideScrollerExampleMap (29 apr. 2018, 00:41:57)
+[2018.04.28-18.41.57:701][656]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.04.28-18.41.58:070][656]LogPlayLevel: PIE: StaticDuplicateObject took: (0.368684s)
+[2018.04.28-18.41.58:087][656]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.04.28-18.41.58:144][656]LogPlayLevel: PIE: World Init took: (0.074546s)
+[2018.04.28-18.41.58:145][656]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.443827s)
+[2018.04.28-18.41.58:317][656]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-18.41.58:467][656]LogInit: FAudioDevice initialized.
+[2018.04.28-18.41.58:575][656]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.04.28-18.41.58:582][656]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2018.04.28-21.41.58
+[2018.04.28-18.41.58:597][656]LogWorld: Bringing up level for play took: 0.018493
+[2018.04.28-18.41.58:792][656]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 1,71
+[2018.04.28-18.41.58:793][656]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-18.42.00:453][739]LogNet: Browse: /Game/SideScrollerBP/Maps/MainMenuMap
+[2018.04.28-18.42.00:463][739]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/MainMenuMap
+[2018.04.28-18.42.02:256][739]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/model_game_v4_PhysicsAsset'
+[2018.04.28-18.42.02:272][739]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/model_game_v4_PhysicsAsset' while loading ../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/SideScrollerBP/model_game_v4.uasset.
+[2018.04.28-18.42.02:278][739]LoadErrors: Error: /Game/SideScrollerBP/model_game_v4 : Can't find file for asset. /Game/SideScrollerBP/model_game_v4_PhysicsAsset
+[2018.04.28-18.42.02:288][739]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/model_game_v4_PhysicsAsset'
+[2018.04.28-18.42.02:289][739]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/model_game_v4_PhysicsAsset' while loading ../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/SideScrollerBP/model_game_v4.uasset.
+[2018.04.28-18.42.02:886][739]LogAIModule: Creating AISystem for world MainMenuMap
+[2018.04.28-18.42.02:886][739]LogLoad: Game class is 'MainMenuMode_C'
+[2018.04.28-18.42.02:911][739]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2018.04.28-21.42.02
+[2018.04.28-18.42.02:911][739]LogWorld: Bringing up level for play took: 0.023350
+[2018.04.28-18.42.02:912][739]LogLoad: Took 2.448617 seconds to LoadMap(/Game/SideScrollerBP/Maps/MainMenuMap)
+[2018.04.28-18.42.11:005][215]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-18.42.11:147][215]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-18.42.13:132][323]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.04.28-18.42.21:526][784]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.04.28-18.42.34:851][532]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.42.34:984][540]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-18.42.35:003][540]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-18.42.35:003][540]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2018.04.28-18.42.35:003][540]PIE: New page: PIE session: SideScrollerExampleMap (29 apr. 2018, 00:42:35)
+[2018.04.28-18.42.35:003][540]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.04.28-18.42.35:020][540]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016392s)
+[2018.04.28-18.42.35:021][540]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.04.28-18.42.35:021][540]LogPlayLevel: PIE: World Init took: (0.001305s)
+[2018.04.28-18.42.35:021][540]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.018059s)
+[2018.04.28-18.42.35:064][540]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-18.42.35:107][540]LogInit: FAudioDevice initialized.
+[2018.04.28-18.42.35:138][540]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.04.28-18.42.35:140][540]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2018.04.28-21.42.35
+[2018.04.28-18.42.35:140][540]LogWorld: Bringing up level for play took: 0.001235
+[2018.04.28-18.42.35:141][540]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 0,059
+[2018.04.28-18.42.35:141][540]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-18.42.36:746][620]LogNet: Browse: /Game/SideScrollerBP/Maps/MainMenuMap
+[2018.04.28-18.42.36:746][620]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/MainMenuMap
+[2018.04.28-18.42.36:856][620]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/model_game_v4_PhysicsAsset'
+[2018.04.28-18.42.36:856][620]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/model_game_v4_PhysicsAsset' while loading ../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/SideScrollerBP/model_game_v4.uasset.
+[2018.04.28-18.42.36:857][620]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/model_game_v4_PhysicsAsset'
+[2018.04.28-18.42.36:857][620]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/model_game_v4_PhysicsAsset' while loading ../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/SideScrollerBP/model_game_v4.uasset.
+[2018.04.28-18.42.37:017][620]LogAIModule: Creating AISystem for world MainMenuMap
+[2018.04.28-18.42.37:017][620]LogLoad: Game class is 'MainMenuMode_C'
+[2018.04.28-18.42.37:019][620]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_MainMenuMap.MainMenuMap up for play (max tick rate 60) at 2018.04.28-21.42.37
+[2018.04.28-18.42.37:020][620]LogWorld: Bringing up level for play took: 0.002216
+[2018.04.28-18.42.37:021][620]LogLoad: Took 0.274647 seconds to LoadMap(/Game/SideScrollerBP/Maps/MainMenuMap)
+[2018.04.28-18.42.42:349][930]LogBlueprintUserMessages: Early EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-18.42.42:381][930]LogBlueprintUserMessages: Late EndPlayMap Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-18.42.45:720][129]Cmd: TRANSACTION UNDO
+[2018.04.28-18.42.45:817][129]LogEditorTransaction: Undo Move Actors
+[2018.04.28-18.42.46:632][166]Cmd: TRANSACTION UNDO
+[2018.04.28-18.42.46:632][166]LogEditorTransaction: Undo Edit Anim to Play
+[2018.04.28-18.42.46:649][166]LogActorComponent: ~FComponentReregisterContext: (/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerCharacter_78.CollisionCylinder) Component already registered.
+[2018.04.28-18.42.48:891][300]LogEditorViewport: Clicking on Actor (LMB): SideScrollerCharacter_C (SideScrollerCharacter)
+[2018.04.28-18.43.00:244][943]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.04.28-18.43.17:078][745]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0689 seconds. Added 116 classes and 0 folders.
+[2018.04.28-18.44.36:440][484]LogSavePackage: Save=195.17ms
+[2018.04.28-18.44.36:442][484]LogSavePackage: Moving '../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Saved/SideScrollerCharacter7FAEB19344CD8EDE2B0148979CFD7D85.tmp' to '../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/SideScrollerBP/SideScrollerCharacter.uasset'
+[2018.04.28-18.44.36:449][484]LogSavePackage: Display: Finished SavePackage ../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/SideScrollerBP/SideScrollerCharacter.uasset
+[2018.04.28-18.44.41:595][761]LogTemp: Repeating last play command: Selected Viewport
+[2018.04.28-18.44.41:619][761]LogBlueprintUserMessages: Early PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-18.44.41:619][761]BlueprintLog: New page: Pre-Play auto-recompile
+[2018.04.28-18.44.41:624][761]LogPlayLevel: [PlayLevel] Compiling SideScrollerCharacter before play...
+[2018.04.28-18.44.41:973][761]LogPlayLevel: PlayLevel: Blueprint regeneration took 354 ms (1 blueprints)
+[2018.04.28-18.44.41:974][761]PIE: New page: PIE session: SideScrollerExampleMap (29 apr. 2018, 00:44:41)
+[2018.04.28-18.44.41:974][761]LogPlayLevel: Creating play world package: /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap
+[2018.04.28-18.44.41:990][761]LogPlayLevel: PIE: StaticDuplicateObject took: (0.016199s)
+[2018.04.28-18.44.41:991][761]LogAIModule: Creating AISystem for world SideScrollerExampleMap
+[2018.04.28-18.44.41:991][761]LogPlayLevel: PIE: World Init took: (0.000907s)
+[2018.04.28-18.44.41:991][761]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap to /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap (0.017260s)
+[2018.04.28-18.44.42:092][761]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2018.04.28-18.44.42:121][761]LogInit: FAudioDevice initialized.
+[2018.04.28-18.44.42:153][761]LogLoad: Game class is 'SideScrollerGameMode_C'
+[2018.04.28-18.44.42:155][761]LogWorld: Bringing World /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap.SideScrollerExampleMap up for play (max tick rate 60) at 2018.04.28-21.44.42
+[2018.04.28-18.44.42:155][761]LogWorld: Bringing up level for play took: 0.001441
+[2018.04.28-18.44.42:157][761]PIE: Play in editor start time for /Game/SideScrollerBP/Maps/UEDPIE_0_SideScrollerExampleMap 1,074
+[2018.04.28-18.44.42:157][761]LogBlueprintUserMessages: Late PlayInEditor Detection: Level '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel' has LevelScriptBlueprint '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap' with GeneratedClass '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap_C' with ClassGeneratedBy '/Game/SideScrollerBP/Maps/SideScrollerExampleMap.SideScrollerExampleMap:PersistentLevel.SideScrollerExampleMap'
+[2018.04.28-18.44.43:494][833]LogNet: Browse: /Game/SideScrollerBP/Maps/MainMenuMap
+[2018.04.28-18.44.43:494][833]LogLoad: LoadMap: /Game/SideScrollerBP/Maps/MainMenuMap
+[2018.04.28-18.44.44:632][833]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/model_game_v4_PhysicsAsset'
+[2018.04.28-18.44.44:632][833]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/model_game_v4_PhysicsAsset' while loading ../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/SideScrollerBP/model_game_v4.uasset.
+[2018.04.28-18.44.44:671][833]LogLinker: Warning: Can't find file '/Game/SideScrollerBP/model_game_v4_PhysicsAsset'
+[2018.04.28-18.44.44:671][833]LogLinker: Warning: Can't find file for asset '/Game/SideScrollerBP/model_game_v4_PhysicsAsset' while loading ../../../../../../Users/Samy/Documents/GitHub/Game-2D-Color-Rush/Content/SideScrollerBP/model_game_v4.uasset.
+[2018.04.28-18.44.55:870][833]LogStats: FPlatformStackWalk::StackWalkAndDump - 10.969 s
+[2018.04.28-18.44.55:875][833]LogOutputDevice: Error: === Handled ensure: ===
+[2018.04.28-18.44.55:876][833]LogOutputDevice: Error: 
+[2018.04.28-18.44.55:876][833]LogOutputDevice: Error: Ensure condition failed: IsObjectValidForDatabase(AssetObject) [File:D:\Build\++UE4+Release-4.19+Compile\Sync\Engine\Source\Editor\BlueprintGraph\Private\BlueprintActionDatabase.cpp] [Line: 1315]
+[2018.04.28-18.44.55:877][833]LogOutputDevice: Error: 
+[2018.04.28-18.44.55:877][833]LogOutputDevice: Error: Stack: 
+[2018.04.28-18.44.55:879][833]LogOutputDevice: Error: [Callstack] 0x000000006664B6F6 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.28-18.44.55:879][833]LogOutputDevice: Error: [Callstack] 0x00000000663AAE2A UE4Editor-Core.dll!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x00000000663BECC6 UE4Editor-Core.dll!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x000000005F58BBE9 UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x000000005F55D28D UE4Editor-BlueprintGraph.dll!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x0000000065BB6F37 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x0000000065EFC000 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x0000000065F1311B UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x0000000065F12534 UE4Editor-CoreUObject.dll!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x0000000063FD89CA UE4Editor-Engine.dll!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x0000000063F8BFD8 UE4Editor-Engine.dll!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x0000000063FF9CF0 UE4Editor-Engine.dll!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x000000006141CD20 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x0000000061CB9516 UE4Editor-UnrealEd.dll!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x000000003DBE5EAC UE4Editor.exe!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x000000003DBF6BD0 UE4Editor.exe!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x000000003DBF6C4A UE4Editor.exe!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x000000003DC04149 UE4Editor.exe!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x000000003DC05B57 UE4Editor.exe!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x00000000B2FC1FE4 KERNEL32.DLL!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: [Callstack] 0x00000000B45EF061 ntdll.dll!UnknownFunction []
+[2018.04.28-18.44.55:880][833]LogOutputDevice: Error: 
+[2018.04.28-18.44.55:883][833]LogStats:                SubmitErrorReport -  0.000 s
